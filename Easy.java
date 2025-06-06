@@ -68,7 +68,7 @@ public class Easy {
         System.out.println(CYAN + "               EASY LEVEL GAME              " + RESET);
         System.out.println(CYAN + "============================================" + RESET);
         System.out.println("Type each word correctly!");
-        System.out.println("You have a total of 20 seconds for all rounds.");
+        System.out.println("You have a total of 25 seconds for all rounds.");
         System.out.print("Press enter to continue");
 		scanner.nextLine();
         System.out.println(CYAN + "============================================" + RESET);
