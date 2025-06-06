@@ -100,11 +100,11 @@ public class Main {
             } 
             //game exit portal
             else if (input.equals("4")) {
-                System.out.println("Goodbye!");
+                System.out.println(PINK + "Goodbye!" + RESET);
                 sc.close();
                 return;
             } else {
-                System.out.println("Invalid input. Please enter 1, 2, or 3 only.");
+                System.out.println("Invalid input.");
             }
         }
 
